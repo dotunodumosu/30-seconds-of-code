@@ -1,7 +1,7 @@
 <!-- Use a descriptive title, prefix it with [FIX], [FEATURE] or [ENHANCEMENT] if applicable (use only one) -->
 
 ## Description
-<!-- Write a detailed description of your changes/additions here -->
+<!-- Write a detailed description of your changes/additions here --> dotrix
 <!-- If your PR resolves an issue, please state "Resolves #(issue number)" to help maintainers process it faster -->
 <!-- If you think your PR will cause breaking changes, require changes in the documentation etc, please be so kind as to explain what, where and how -->
 
